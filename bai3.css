@@ -1,0 +1,15 @@
+body {
+    justify-content: center;
+    background-color: #e5dcdc;
+    display: flex;
+}
+
+.bai3 {
+    width: 350px;
+    height: 300px;
+}
+
+.bai3 h1 {
+    font-size: 20px;
+    font-family: Garamond, serif;
+}
