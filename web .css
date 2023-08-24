@@ -1,0 +1,117 @@
+body {
+    padding: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+
+}
+
+.main {
+    width: 1173px;
+    background-color: aqua;
+
+}
+
+/* xem lại */
+.header {
+    width: 100%;
+    height: 300px;
+    /* margin: 20px; */
+    background-color: #FFFFFF;
+}
+
+.header img {
+    width: 1173px;
+    height: 300px;
+}
+
+.head1 {
+    display: grid;
+    justify-content: center;
+}
+
+.menu {
+    height: 100px;
+    background-color: #FFD400;
+}
+
+#menu_logo {
+    /* width: 100px; */
+    border: 2px solid #68217A;
+    float: left;
+}
+
+#menu_logo img {
+    width: 176px;
+}
+
+#menu_diachi {
+    /* height: 98px; width: 114px; */
+    /* border: 2px solid #68217A; */
+    background-color: #FFBC06;
+    float: left;
+
+}
+
+#menu_diachi_1 {
+    width: 25px;
+    height: 12px;
+    margin-left: 90px;
+}
+
+#menu_user {
+    width: 100px;
+    height: 50px;
+    /* border: 2px solid #68217A; */
+    background-color: #FFBC06;
+    float: left;
+    border-radius: 8px;
+}
+#menu_user i{
+    font-size: 22px;
+
+}
+#menu_input {
+
+    border: 2px solid #68217A;
+    background-color: rgb(132, 132, 208);
+    float: left;
+    border-radius: 8px;
+}
+
+.menu .input {
+    width: 249px;
+    height: 43px;
+}
+
+#menu_giohang {
+    width: 100px;
+    height: 50px;
+    /* border: 2px solid #68217A; */
+    background-color: #FFBC06;
+    float: left;
+    border-radius: 8px;
+}
+#menu_giohang i{
+    font-size: 22px;
+}
+#menu_congnghe {
+    width: 70px;
+    border: 2px solid #68217A;
+    background-color: rgb(132, 132, 208);
+    float: left;
+}
+
+#menu_hoidap {
+    width: 55px;
+    border: 2px solid #68217A;
+    background-color: rgb(132, 132, 208);
+    float: left;
+}
+
+#menu_game {
+    width: 73px;
+    border: 2px solid #68217A;
+    background-color: rgb(132, 132, 208);
+    float: left;
+}
